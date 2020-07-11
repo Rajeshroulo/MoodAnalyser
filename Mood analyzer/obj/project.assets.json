@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Mood analyzer\\Mood analyzer\\Mood analyzer.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\VisualStudioProjects\\Moodanalyzer\\Mood analyzer\\Mood analyzer.csproj",
       "projectName": "Mood analyzer",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\Mood analyzer\\Mood analyzer\\Mood analyzer.csproj",
+      "projectPath": "C:\\Users\\HP\\VisualStudioProjects\\Moodanalyzer\\Mood analyzer\\Mood analyzer.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\Mood analyzer\\Mood analyzer\\obj\\",
+      "outputPath": "C:\\Users\\HP\\VisualStudioProjects\\Moodanalyzer\\Mood analyzer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

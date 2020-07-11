@@ -4649,11 +4649,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Mood analyzer\\MoodanalyzerTest\\MoodanalyzerTest.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\VisualStudioProjects\\Moodanalyzer\\MoodanalyzerTest\\MoodanalyzerTest.csproj",
       "projectName": "MoodanalyzerTest",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\Mood analyzer\\MoodanalyzerTest\\MoodanalyzerTest.csproj",
+      "projectPath": "C:\\Users\\HP\\VisualStudioProjects\\Moodanalyzer\\MoodanalyzerTest\\MoodanalyzerTest.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\Mood analyzer\\MoodanalyzerTest\\obj\\",
+      "outputPath": "C:\\Users\\HP\\VisualStudioProjects\\Moodanalyzer\\MoodanalyzerTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4669,8 +4669,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\HP\\source\\repos\\Mood analyzer\\Mood analyzer\\Mood analyzer.csproj": {
-              "projectPath": "C:\\Users\\HP\\source\\repos\\Mood analyzer\\Mood analyzer\\Mood analyzer.csproj"
+            "C:\\Users\\HP\\VisualStudioProjects\\Moodanalyzer\\Mood analyzer\\Mood analyzer.csproj": {
+              "projectPath": "C:\\Users\\HP\\VisualStudioProjects\\Moodanalyzer\\Mood analyzer\\Mood analyzer.csproj"
             }
           }
         }

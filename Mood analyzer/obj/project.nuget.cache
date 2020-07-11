@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xvFNigM5kU7K00qVlMHsvHtpVeG306nDy4aJmRkgIglLG9vPOVvoDt3OmKyRonJ7zl4zsIGgqRMh3hCy5Sh98A==",
+  "dgSpecHash": "6Yr+q2kg984v9WnSys9UTKfEAn3nwooIJmh5eJVjXcgPG2m/SR2XUgNuFjDlhJWPdlu995VqgCcYb55lIbzldg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Mood analyzer\\Mood analyzer\\Mood analyzer.csproj",
+  "projectFilePath": "C:\\Users\\HP\\VisualStudioProjects\\Moodanalyzer\\Mood analyzer\\Mood analyzer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

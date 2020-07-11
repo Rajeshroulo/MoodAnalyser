@@ -47,7 +47,7 @@ namespace MoodanalyzerTest
         }
 
         [Test]
-        public void WhenEmptyMessageGiven_ShouldThrowException()
+        public void WhenEmptyMessageIsGiven_ShouldThrowException()
         {
             try
             {
@@ -144,7 +144,7 @@ namespace MoodanalyzerTest
         }
 
         [Test]
-        public void GivenMessageIsNull_ShouldThrowException()
+        public void GivenWhenMessageIsNull_ShouldThrowException()
         {
             try
             {
